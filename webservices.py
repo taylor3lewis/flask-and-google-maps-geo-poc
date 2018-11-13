@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# WebService for JobCrawler - Vr.: 1.0
 from flask import Flask
 from flask import render_template
 
